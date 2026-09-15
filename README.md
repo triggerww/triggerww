@@ -8,7 +8,7 @@ Tenho interesse por programação e tecnologia, e gosto de explorar novas ferram
 
 **Linguagens & Desenvolvimento**
 
-JavaScript · Python · Java · HTML · CSS · Tailwind CSS · Node.js
+JavaScript · Python · Java · HTML · CSS · React · Node.js
 
 **Sistemas Operacionais**
 
